@@ -2,7 +2,7 @@
 
 👀 I’m interested in programming since the 8th class. I studied mechatronics as a dual student after school. Since march 2021 I work as a software developer for WMF coffee machines. Currently I'm looking forward to study informatics.
 
-🌱 I learned a lot of different topics: first of all arduino (building selfmade quadrocopters, tuning looping louie, creating music-controlled led-strips), raytracing, cracking minesweeper by dll-injection and reverse-engineering. I also touched the topic of compiler construction, by creating an automatic method commenting tool based on a method signature. I'm still advancing my software developing skills by reading books and watching videos.
+🌱 I learned a lot of different topics: first of all arduino (building selfmade quadrocopters, tuning looping louie, creating music-controlled led-strips), raytracing, cracking minesweeper by dll-injection and reverse-engineering. I also touched the topic of compiler construction, by creating an automatic method commenting tool based on method signatures for my company during my bachelor thesis. I'm still advancing my software developing skills by reading books and watching videos.
 
 📫 You can reach me by mail "julius.baechle@yahoo.de"
 
