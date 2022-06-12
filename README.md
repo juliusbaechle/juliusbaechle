@@ -5,30 +5,33 @@
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
-- 📄 **Career as software developer:** 
-I've been interested in programming since 2013, when I started programming my graphic-capable calculator in Texas Instrument's Basic, 
-a cruelly limited programming language. Moving on I learned Java as my first object-oriented language and wrote a recreation of "Snake" 
-with a level editor and my own version of "Battleships". Through several Arduino projects, I started learning C++, which is my main 
-programming language today. Between 2017 and 2021 I studied automation technology at the HS Esslingen and learned the basics of Javascript, 
-PHP, HTML, CSS, Python, SQL and C#. As a dual student at WMF GmbH, I visited the software development department for coffee machines multiple 
-times, deepening my knowledge in C++ and additionally learning Qt and SQLite. Since March 2021 I am working as a software developer in this 
-department, where I take on increasingly responsible tasks such as defining inter-process interfaces. Currently, I am looking for a computer 
-science study that will further expand my knowledge in the beautiful and interesting field of software development.
+- 💬 Ask me about : Arduino, C++ and Qt
+
+- 🔭 **Future goal:** study of computer science
+
+- 📄 **Software developing career:**  
+  **2021 - 2022:**  
+  I have been working as a embedded software developer at WMF GmbH since March 2021. In the first six months I worked in an international 
+  team on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
+  like automatic validation through template metaprogramming, submission of type-correct exceptions, and a publisher-subscriber model. In 
+  the last half year I have taken on responsible tasks like the definition of inter-process interfaces including entities and modules.  
+  
+  **2017 - 2021:**  
+  In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
+  As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my knowledge in C++
+  and additionally learning Qt and SQLite.  
+  
+  **2013 - 2017:**  
+  I started programming my graphing calculator in Texas Instruments Basic, an extremely limited programming language:
+  Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
+  line at a time. Nevertheless, I managed to implement a simple but already graphical poker game. After that I learned Java as my first object-oriented
+  language and wrote a replica of "Snake" with a level editor and my own version of Battleships. Through several Arduino projects I started to learn C++.
 
 - 📘 **Books I can recommend:**  
   "Clean Architecture" by Robert C. Martin  
   "Clean Code" by Robert C. Marting  
   "Entwurfsmuster" by Matthias Geirhos  
   "A Philosophy of Software Design" by John Ousterhout  
-
-- 📅 **Projects timeline:**   
-  2022: QlockToo, MinesweeperHack  
-  2021: Raytracing, LedMatrix  
-  2020: LoopingLouie, MicroQt, AutoDoc  
-  2019: Quadcopter  
-  2018: LedStrip  
-
-- ⚡ **Fun fact:** Because I programmed my calculator in class, I once got 0 points for the oral grade. 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
