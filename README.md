@@ -11,10 +11,10 @@
 
 - 📄 **Software developing career:**  
   **2021 - 2022:**  
-  I'm working as a software developer at WMF GmbH since March 2021. In the first six months I worked in an international 
-  team on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
-  like automatic validation through template metaprogramming, submission of type-correct exceptions, and a publisher-subscriber model. In 
-  the last half year I take on responsible tasks like the definition of inter-process interfaces including entities and modules.  
+  I have been working as a software developer at WMF GmbH since March 2021. In the first six months I worked in an international team 
+  on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
+  like automatic validation through template metaprogramming, type-correct transmission of exceptions and a publisher-subscriber model. 
+  Currently, I am taking on responsible tasks such as defining inter-process interfaces and accompanying the implementation.
   
   **2017 - 2021:**  
   In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
