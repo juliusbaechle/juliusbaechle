@@ -7,7 +7,7 @@
 
 - 💬 Ask me about : Arduino, C++ and Qt
 
-- 🔭 **Future goal:** study of computer science
+- 🔭 **Future goal:** A good grade in my studies of autonomous systems
 
 - 📄 **Software developing career:**  
   **2021 - 2022:**  
