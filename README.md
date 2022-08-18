@@ -30,7 +30,7 @@
 
 - 📘 **Books I can recommend:**  
   "Clean Architecture" by Robert C. Martin  
-  "Clean Code" by Robert C. Marting  
+  "Clean Code" by Robert C. Martin  
   "Entwurfsmuster" by Matthias Geirhos  
   "A Philosophy of Software Design" by John Ousterhout  
 
