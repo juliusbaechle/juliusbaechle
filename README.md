@@ -20,7 +20,7 @@
   **2017 - 2021:**  
   In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
   As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my knowledge in C++
-  and additionally learning Qt and SQLite.  
+  and additionally learning Qt and SQLite. I also started to implement Texas Holdem using the Unity framework, but sadly I never finished it.
   
   **2013 - 2017:**  
   I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
