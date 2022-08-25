@@ -5,10 +5,10 @@
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
-- 🔭 **Future goal:** A good grade in my studies of autonomous systems
+- 🔭 **Future goal:** A good grade in my studies of applied computer science - autonomous systems
 
 - 📄 **Software developing career:**  
-  **2022 - 2024: study of autonomous systems at HS Esslingen**  
+  **2022 - 2024: study of applied computer science - autonomous systems at HS Esslingen**  
   ...
 
   **2021 - 2022: software developer for WMF coffee machines**  
@@ -18,7 +18,7 @@
   In the last six months, I then took on really responsible tasks such as defining inter-process interfaces and supporting the implementation.
   According to my boss, I worked my way up to become an unofficial software architect who was fully recognized within the team.
   
-  **2017 - 2021: study of automation technology at HS Esslingen**  
+  **2017 - 2021: study of mechatronics - automation technology at HS Esslingen**  
   In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
   As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my knowledge in C++
   and additionally learning Qt and SQLite. I also started to implement Texas Holdem using the Unity framework, but sadly I never finished it.
