@@ -5,8 +5,6 @@
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
-- 💬 Ask me about : Arduino, C++ and Qt
-
 - 🔭 **Future goal:** A good grade in my studies of autonomous systems
 
 - 📄 **Software developing career:**  
