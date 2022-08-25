@@ -25,7 +25,7 @@
   **2013 - 2017:**  
   I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
-  line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. After that 7
+  line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. After that
   I learned Java as my first object-oriented language and wrote a replica of "Snake" with a level editor and my own version of Battleships. Through 
   several Arduino projects I started to learn C++.
 
