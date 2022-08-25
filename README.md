@@ -8,19 +8,22 @@
 - 🔭 **Future goal:** A good grade in my studies of autonomous systems
 
 - 📄 **Software developing career:**  
-  **2021 - 2022:**  
+  **2022 - 2024: study of autonomous systems at HS Esslingen**  
+  ...
+
+  **2021 - 2022: software developer for WMF coffee machines**  
   I have been working as a software developer at WMF GmbH since March 2021. In the first six months I worked in an international team 
   on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
   like automatic validation through template metaprogramming, type-correct transmission of exceptions and a publisher-subscriber model. 
   In the last six months, I then took on really responsible tasks such as defining inter-process interfaces and supporting the implementation.
   According to my boss, I worked my way up to become an unofficial software architect who was fully recognized within the team.
   
-  **2017 - 2021:**  
+  **2017 - 2021: study of automation technology at HS Esslingen**  
   In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
   As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my knowledge in C++
   and additionally learning Qt and SQLite. I also started to implement Texas Holdem using the Unity framework, but sadly I never finished it.
   
-  **2013 - 2017:**  
+  **2013 - 2017: pupil of the Hans Baldung Gymnasium**  
   I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
   line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. After that
