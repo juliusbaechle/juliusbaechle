@@ -19,9 +19,10 @@
   According to my boss, I worked my way up to become an unofficial software architect who was fully recognized within the team.
   
   **2017 - 2021: study of mechatronics - automation technology at HS Esslingen**  
-  In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#.
-  As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my knowledge in C++
-  and additionally learning Qt and SQLite. I also started to implement Texas Holdem using the Unity framework, but sadly I never finished it.
+  In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#. 
+  As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my 
+  knowledge in C++ with projects like a calculator and height detection for coffee cups and additionally learning Qt and SQLite. 
+  I also started to implement Texas Holdem using the Unity framework, but sadly I never finished it.
   
   **2013 - 2017: pupil of the Hans Baldung Gymnasium**  
   I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
