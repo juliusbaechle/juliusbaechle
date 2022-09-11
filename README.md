@@ -7,7 +7,7 @@
 
 - 🔭 **Future goal:**  
   Learning a lot in my studies of applied computer science - autonomous systems.  
-  Maybe becoming a software developer for autonomous driving at Mercedes Benz
+  Maybe becoming a software developer for autonomous driving at Mercedes Benz.
 
 - 📄 **Software developing career:**  
   **2022 - 2024: study of applied computer science - autonomous systems at HS Esslingen**  
