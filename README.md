@@ -17,6 +17,7 @@
   on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
   like automatic validation through template metaprogramming, type-correct transmission of exceptions and a publisher-subscriber model. 
   In the last six months, I then took on really responsible tasks such as defining inter-process interfaces and supporting the implementation.
+  According to my collegues I worked myself up to become an unofficial software architect.
   
   **2017 - 2021: study of mechatronics - automation technology at HS Esslingen**  
   In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#. 
