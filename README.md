@@ -10,7 +10,7 @@
 
 - 📄 **Software developing career:**  
   **2022 - 2024: study of applied computer science - autonomous systems at HS Esslingen**  
-  At the moment I have two study projects: semantic segmentation for autonomous driving and pseudonym switching in V2X applications.  
+  At the moment I have two study projects: semantic segmentation for autonomous driving and pseudonym switching in V2X applications. 
   I attend lectures in theoretical computer science, security engineering, motion planning and mobile communication.   
 
   **2021 - 2022: software developer for WMF coffee machines**  
