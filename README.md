@@ -7,29 +7,11 @@
 
 - 🔭 **Future goal:**  
   Learning a lot in my studies of applied computer science - autonomous systems.  
-
-- 📄 **Software developing career:**  
-  **2022 - 2024: study of applied computer science - autonomous systems at HS Esslingen**  
-  At the moment I have two study projects: semantic segmentation for autonomous driving and pseudonym switching in V2X applications. 
-  I attend lectures in theoretical computer science, security engineering, motion planning and mobile communication.   
-
-  **2021 - 2022: software developer for WMF coffee machines**  
-  I have been working as a software developer at WMF GmbH since March 2021. In the first six months I worked in an international team 
-  on the development of the Automated Coffee System. The next topic was the implementation of a JSON-RPC library in C++, with features 
-  like automatic validation through template metaprogramming, type-correct transmission of exceptions and a publisher-subscriber model. 
-  In the last six months, I then took on really responsible tasks such as defining inter-process interfaces and supporting the implementation.
   
-  **2017 - 2021: study of mechatronics - automation technology at HS Esslingen**  
-  In my study of automation technology at the HS Esslingen I learned the basics of Javascript, PHP, HTML, CSS, Python, Matlab and C#. 
-  As a dual student at the WMF GmbH, I visited the software development department for coffee machines multiple times, deepening my 
-  knowledge in C++ with projects like a calculator and height detection for coffee cups and additionally learning Qt and SQLite.
-  
-  **2013 - 2017: pupil of the Hans Baldung Gymnasium**  
-  I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
+- ⚡ **Fun fact:**
+  In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
-  line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. After that
-  I learned Java as my first object-oriented language and wrote a replica of "Snake" with a level editor and my own version of Battleships. Through 
-  several Arduino projects like the first version of Looping Louie I started to learn C++.
+  line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban.
 
 - 📘 **Books I can recommend:**  
   "Clean Architecture" by Robert C. Martin  
