@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
 <h3 align="center">A passionate software developer and computer scientist from Germany</h3>
 
-- 💬 **Ask me about:** C++, Qt and Arduino
+- 💬 **Ask me about:** Object Oriented Programming, C++, Qt and Arduino
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
@@ -12,7 +12,6 @@
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
   line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. 
-  Because I programmed during class, I once even got 0 points as an oral grade in civics.
 
 - 📘 **Books I can recommend:**  
   "Clean Architecture" by Robert C. Martin  
