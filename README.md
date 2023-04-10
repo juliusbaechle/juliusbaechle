@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
 <h3 align="center">A passionate software developer and computer scientist from Germany</h3>
 
-- 💬 **Ask me about:** Object Oriented Programming, C++, Qt and Arduino
+- 💬 **Ask me about:** Object-oriented programming, C++, Qt and Arduino
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
