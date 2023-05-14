@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
-<h3 align="center">A passionate software developer and computer scientist from Germany</h3>
+<h3 align="center">A passionate software developer from Germany</h3>
 
 - 💬 **Ask me about:** Object-oriented programming, C++, Qt and Arduino
 
@@ -8,7 +8,7 @@
 - 🔭 **Future goal:**  
   Learning a lot in my studies of applied computer science - autonomous systems.  
   
-- ⚡ **Fun fact:**
+- 🌱 **How I started:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
   line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. 
