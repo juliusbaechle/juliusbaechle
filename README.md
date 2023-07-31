@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
 - 🔭 **Future goal:**  
-  Become a PhD student and advance the world of autonomous driving. 
+  To complete my Master's degree with a grade of 1.5 or better and to be successful as a Master's student at Daimler Truck.
   
 - 🌱 **How I started programming:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
