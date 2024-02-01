@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
 <h3 align="center">A passionate computer scientist and software developer from Germany</h3>
 
-- 💬 **Ask me about:** object-oriented programming, C++, Qt and Arduino
+- 💬 **Ask me about:** autonomous vehicles, machine learning, object-oriented programming
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
 - 🔭 **Future goal:**  
-  To complete my Master's degree with a grade of 1.5 or better and to be successful as a Master's student at Daimler Truck.
+  Finding an interesting topic for a doctoral thesis in the field of machine learning
   
 - 🌱 **How I started programming:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
   Only one-letter variables, a maximum of 50 jump addresses for branches and loops, and an editor that allowed you to go up or down only one 
   line at a time. Nevertheless, I managed to implement a simple but already graphical poker game as well as my own version of sakoban. 
 
-- 📘 **Books I can recommend:**  
+- 📘 **Books on software development that I can recommend:**  
   "Clean Architecture" by Robert C. Martin  
   "Clean Code" by Robert C. Martin  
   "Entwurfsmuster" by Matthias Geirhos  
@@ -26,12 +26,12 @@
 
 <h3 align="left">Primary Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Secondary Languages and Tools:</h3>
