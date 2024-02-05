@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
 - 🔭 **Future goal:**  
-  Finding an interesting topic for a doctoral thesis in the field of machine learning
+  Finding an interesting topic for a doctoral thesis in the field of computer science
   
 - 🌱 **How I started programming:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
