@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** julius.baechle@yahoo.de
 
 - 🔭 **Future goal:**  
-  Finding an interesting job in the field of autonomous driving
+  Finding an interesting PhD position in the field of autonomous driving
   
 - 🌱 **How I started programming:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
