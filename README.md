@@ -4,9 +4,6 @@
 - 💬 **Ask me about:** autonomous vehicles, machine learning, object-oriented programming
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
-
-- 🔭 **Future goal:**  
-  Advancing the field of automated driving during my PhD
   
 - 🌱 **How I started programming:**
   In 2014 I started software development by programming my graphic-capable calculator in Texas Instruments Basic, an extremely limited programming language:
