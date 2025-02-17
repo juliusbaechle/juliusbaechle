@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-- 💬 **Ask me about:** object-oriented programming, autonomous vehicles, machine learning
+- 💬 **Ask me about:** object-oriented programming, embedded development, autonomous vehicles, machine learning
 
 - 📫 **How to reach me:** julius.baechle@yahoo.de
   
