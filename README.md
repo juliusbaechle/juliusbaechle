@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julius Bächle</h1>
-<h3 align="center">A passionate computer scientist and software developer from Germany</h3>
+<h3 align="center">A passionate software developer from Germany</h3>
 
 - 💬 **Ask me about:** object-oriented programming, autonomous vehicles, machine learning
 
